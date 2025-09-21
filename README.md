@@ -11,7 +11,7 @@ This repository contains the **Verilog implementation of a Half Adder**, along w
 
 ## 📺 Watch the Video
 Check out the full walkthrough on the **Sly Fox Electronics** YouTube channel:  
-👉 [Watch the Video](your-link-here) 🎥
+👉 [Watch the Video](https://www.youtube.com/@SlyFoxelectronics) 🎥
 
 ---
 
